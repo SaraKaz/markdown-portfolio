@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*lab 10*
+_Also lab 10_
+
+**lab 10**
+__Also lab 10__
+
+_Still Lab **10**_
